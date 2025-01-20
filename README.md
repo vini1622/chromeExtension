@@ -12,6 +12,8 @@ This extension helps you pick any color from a webpage using an eyedropper tool.
 
 ## 2. How to Install:
 
+#### -Download Zip folder
+
 #### -Open Chrome and go to the Extension Manager (click the puzzle piece icon in the top-right corner).
 
 #### -Turn on Developer Mode (toggle the switch at the top of the Extensions page).
