@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Color Picker",
+    "description": "Color picker extension with multiple color picking, saving & exporting",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
